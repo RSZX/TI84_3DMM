@@ -31,12 +31,16 @@ Conversion by **Alfredo Rodríguez Sanfrutos**.
 
 ## FAQ
 ### How to execute it in a real TI-84 Plus or TI-84 Plus Silver Edition?
-Install and open TI Connect(r), select 'Send To TI Device'. Select your device.
+Install and open TI Connect(R), select 'Send To TI Device'. Select your device.
 Now, select the program.8xk file or drag it to the 'Send To TI Device' window.
 Then, click 'Send to Device'.
 When it's done transferring the file, open the APPS menu on your calculator, select 3DMM and press Enter.
-In the first screen, you will be prompted to select the rendering system. Select (MODE) ORIGINAL for the standard game,
-or (DEL) RAYCASTED for the extra ray-casting rendering.
+In the first screen, you will be prompted to select the rendering system. Select *(MODE) ORIGINAL* for the standard game,
+or *(DEL) RAYCASTED* for the extra ray-casting rendering.
+
+### Why don't you share your entire dev environment so we can execute the game by just executing a simple .bat script?
+It's not possible for me to share Wabbitemu or SPASM-NG executables, as they have their own licenses. But most importantly, 
+I would have to share the TI-84 Plus ROM, which is not something Texas Instruments likes.
 
 ### Why do this in Assembly?
 I wanted to explore the world of 3D environments and games from the ground up, so I had to start in Assembly, of course.
