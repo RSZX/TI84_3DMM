@@ -28,6 +28,20 @@ apart from the **original** method for rendering the **3D view**.
 Conversion by **Alfredo Rodríguez Sanfrutos**.
 	For my Bachelor's Degree Final Project, Computer Engineering @ Universidad Politécnica de Madrid.
 	Tutor: Juan Zamorano Flores
+ 
+## Demo
+![](https://github.com/RSZX/TI84_3DMM/blob/main/MEDIA/Intro.gif)
+
+### Original version
+![](https://github.com/RSZX/TI84_3DMM/blob/main/MEDIA/GAME.gif)
+
+### Ray-casting version
+![](https://github.com/RSZX/TI84_3DMM/blob/main/MEDIA/GAME_RC.gif)
+
+### Maze generation
+Printed the maze in each step of the maze generation algorithm and got this cool gif, enjoy:
+![](https://github.com/RSZX/TI84_3DMM/blob/main/MEDIA/mazegeneration_hd_cut.gif)
+
 
 ## FAQ
 ### How to execute it in a real TI-84 Plus or TI-84 Plus Silver Edition?
