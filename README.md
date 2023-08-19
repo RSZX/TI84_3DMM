@@ -27,6 +27,7 @@ apart from the **original** method for rendering the **3D view**.
 
 Conversion by **Alfredo Rodríguez Sanfrutos**.
 	For my Bachelor's Degree Final Project, Computer Engineering @ Universidad Politécnica de Madrid.
+ 	Full project available at [https://oa.upm.es/74983/](https://oa.upm.es/74983/).  
 	Tutor: Juan Zamorano Flores
  
 ## Demo
